@@ -1,7 +1,7 @@
 const whitelist = [
-  "https://rakshaanimal.org", // Your frontend production URL
-  "https://animal-rescue-india.netlify.app",
-  "https://raksha-alpha.vercel.app/",
+  // "https://rakshaanimal.org", // Your frontend production URL
+  // "https://animal-rescue-india.netlify.app",
+  "https://raksha-alpha.vercel.app",
 
   "http://localhost:5173", // For local development
 ];
